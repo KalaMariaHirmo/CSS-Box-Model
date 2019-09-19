@@ -1,0 +1,27 @@
+body{
+    border: 69px solid  hotpink;
+    margin: 0%;
+}
+div {
+    height: 200px;
+    width: 200px;
+    box-sizing: border-box;
+    padding: 10px;
+
+}
+.red{
+    background-color: red;   
+}
+.yellow{
+    background-color: yellow;
+    margin-left: 200px;
+    text-align: center;
+
+}
+.green{
+    background-color: greenyellow;
+    margin-left: 400px;
+}
+p{
+    margin: 0;
+}
